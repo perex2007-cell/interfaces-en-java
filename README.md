@@ -12,6 +12,7 @@ Este proyecto implementa una interfaz `EspacioCultural` y varias clases que repr
 feat: crear interfaz EspacioCultural con métodos base
 ```
 
+
 ### 🌿 2. Implementar Jardín Botánico
 
 ```
